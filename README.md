@@ -109,25 +109,25 @@ http://localhost:3000
 
 ### 🏠 Home Feed
 
-![Home Feed](public/screenshots/home.png)
+![Home Feed](public/screenshots/Home-page.png)
 
 ---
 
 ### 🔐 Login
 
-![Login](public/screenshots/login.png)
+![Login](public/screenshots/Login-page.png)
 
 ---
 
 ### 📝 Register
 
-![Register](public/screenshots/register.png)
+![Register](public/screenshots/Register-page.png)
 
 ---
 
 ### 👤 Profile
 
-![Profile](public/screenshots/profile.png)
+![Profile](public/screenshots/Profile-page.png)
 
 ---
 
@@ -139,7 +139,7 @@ http://localhost:3000
 
 ### 🔍 Search Users
 
-![Search](public/screenshots/search.png)
+![Search](public/screenshots/Search-page.png)
 
 ---
 
