@@ -1,12 +1,14 @@
 {
+  "id": "/",
   "name": "Momento",
   "short_name": "Momento",
   "description": "Share your moments with the world",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
+  "orientation": "portrait",
   "background_color": "#ffffff",
   "theme_color": "#000000",
-  "orientation": "portrait",
   "icons": [
     {
       "src": "/icons/icon-192x192.png",
